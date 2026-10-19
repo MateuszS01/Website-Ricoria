@@ -78,7 +78,7 @@ JavaScript
 x2system database integration
 
 ## 📂 Project Structure
-.
+```.
 ├── screenshots/
 │   ├── homepage.png
 │   ├── menu.png
@@ -86,6 +86,7 @@ x2system database integration
 │   ├── catering.png
 │   └── contact.png
 └── README.md
+```
 
 ## 🎯 Project Goal
 
